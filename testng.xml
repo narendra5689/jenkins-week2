@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="DevOps Test Suite">
+
+    <test name="Sample Tests">
+        <classes>
+            <class name="com.DevOpsExp2.tests.SampleTest"/>
+        </classes>
+    </test>
+
+</suite>
